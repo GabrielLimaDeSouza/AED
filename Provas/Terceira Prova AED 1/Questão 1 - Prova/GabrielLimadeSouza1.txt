@@ -1,0 +1,5 @@
+Número = 35 -> Quantidade de divisores = 4
+Número = 44 -> Quantidade de divisores = 6
+Número = 40 -> Quantidade de divisores = 8
+Número = 35 -> Quantidade de divisores = 4
+Número = 42 -> Quantidade de divisores = 8

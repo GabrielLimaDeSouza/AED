@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1639688898 source:c:\users\user\onedrive - sga.pucminas.br\puc\algoritmos e estruturas de dados 1\aulas\c++\programas\lista classes e objetos\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
